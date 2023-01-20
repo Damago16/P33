@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+/home/daniel/james/.metadata/.plugins/org.eclipse.jdt.core
-70663183.index
-871219605.index
-1865797976.index
